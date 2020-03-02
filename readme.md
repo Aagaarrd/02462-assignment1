@@ -12,4 +12,4 @@ This assignment is an extension of the Binary MNIST exercise from week 1. In wee
  
 4) Compute and plot the confusion matrix. Discuss the result 
  
-5) Error analysis: find images that are misclassified by the system. Are there common characteristics among the images that are misclassified? Can you understand and 
+5) Error analysis: find images that are misclassified by the system. Are there common characteristics among the images that are misclassified? Can you understand and explain why?
